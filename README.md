@@ -5,3 +5,5 @@ In this configuration, pressing 1 will simply dial the number. Pressing 2 will r
 Instructions for building the spoofer can be found on the Rapid7 blog: 
 
 https://blog.rapid7.com/2018/05/24/how-to-build-your-own-caller-id-spoofer-part-1/
+
+https://blog.rapid7.com/2018/07/12/how-to-build-your-own-caller-id-spoofer-part-2/
